@@ -9,7 +9,7 @@
 
 
 <p align="left"> 
-  Eu comecei a aprender HTML desde a época em que eu usava o Tumblr como plataforma de blog. Com o tempo, fui aprimorando meus conhecimentos nessa linguagem e hoje em dia estou consolidando minha carreira na área de Tecnologia da Informação, trabalhando com outras linguagens de programação.
+  Eu comecei a aprender HTML na época em que eu usava o Tumblr como plataforma de blog. Com o tempo, fui aprimorando meus conhecimentos nessa linguagem e hoje em dia estou consolidando minha carreira na área de Tecnologia da Informação, trabalhando com outras linguagens de programação.
 </p>
 
 
